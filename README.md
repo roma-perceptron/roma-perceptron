@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roma-perceptron
+- 👋 Hi, I’m Roma.
 - 👀 I’m interested in Deep Learning models and tools.
 - 🌱 I’m currently learning DL (keras)
 - 💞️ I’m looking to collaborate on tools for monitoring and manage training process
