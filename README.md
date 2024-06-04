@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Roma.
-- 👀 I’m interested in Deep Learning models and tools.
-- 🌱 I’m currently learning DL (keras)
-- 💞️ I’m looking to collaborate on tools for monitoring and manage training process
-- 📫 Reach me on telegram: @roma_perceptron
+👋 Hi, I’m Roma
 
-<!---
-roma-perceptron/roma-perceptron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here you find some test-tasks i make for companies and some my own projects.
+I'm looking for job as Junior/Junior+ backend Python developer.
+
+My base stack:
+  - Python, JS (for frontend purporses)
+  - Django, Flask, FastAPI, Aiohttp
+  - MySQL, PostgreSQL
+  - REST API
+  - Docker, Linux
+
+📫 Reach me on telegram: @roma_perceptron or by email: roma.perceptron@gmail.com
+
