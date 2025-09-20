@@ -1,7 +1,6 @@
 👋 Hi, I’m Roma
 
 Here you find some test-tasks i make for companies and some my own projects.
-I'm looking for job as Junior/Junior+ backend Python developer.
 
 My base stack:
   - Python, JS (for frontend purporses)
